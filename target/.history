@@ -1,0 +1,3 @@
+run -Dhttp.port=9089
+run -Dhttp.port=9100
+run -Dhttp.port=9198
