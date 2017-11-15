@@ -1,2 +1,2 @@
-project/target/* linguist
+project/target/* linguist-vendored
 *.scala linguist-language=Scala
