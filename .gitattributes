@@ -1,2 +1,2 @@
-src/main/resources/static/* linguist
+project/target/* linguist
 *.scala linguist-language=Scala
